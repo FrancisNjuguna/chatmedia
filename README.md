@@ -1,5 +1,5 @@
 # chatmedia
-ss
+s
 
 # Getting Started with Create React App
 
